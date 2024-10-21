@@ -1,0 +1,4 @@
+# mybotshop:
+go2_faceblur:
+  ros__parameters:
+    robot_topic: '/a200_1045/platform/odom'
